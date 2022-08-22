@@ -21,3 +21,7 @@
 
 
 I am working on implementing all functions of pystyle in the file are the currently translated ones
+
+
+![image](https://user-images.githubusercontent.com/98614666/185834894-34d5e388-613f-4498-b2da-86ee23595e87.png)
+![image](https://user-images.githubusercontent.com/98614666/185834904-d015d890-3973-4ad5-987b-21aacaf0338e.png)
