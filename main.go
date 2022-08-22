@@ -128,11 +128,11 @@ func StaticRGB(r int, g int, b int) string {
 	}())
 }
 
-func Symbol(symbol string, col string, col_left_right string, left string, right string) string {
+func Symbol(symbol string, col string, col_left_right string, message string) string {
 
 	return fmt.Sprintf(
 		"%s%s%s%s%s%s%s",
-		col_left_right, left, symbol, right, col_left_right, col, col_left_right,
+		col_left_right, "[", col, symbol, col_left_right, "]", reset,
 	)
 }
 
