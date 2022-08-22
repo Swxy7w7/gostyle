@@ -29,7 +29,7 @@ func main() {
 ```
 
 ![image](https://user-images.githubusercontent.com/98614666/185834904-d015d890-3973-4ad5-987b-21aacaf0338e.png)
-
+-----------------------------------------
 ```go
 func main() {
 	fmt.Println(Symbol("+", blue, purple, blue, "Hello World"))
