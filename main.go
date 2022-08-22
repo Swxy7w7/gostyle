@@ -60,11 +60,11 @@ var (
 )
 
 func Blue() string {
-	return blue
+	return _start("0;0;255")
 }
 
 func Reset() string {
-	return reset
+	return _start("255;255;255")
 }
 // _MakeColords
 
