@@ -59,6 +59,13 @@ var (
 	reset           = white
 )
 
+func blue() string {
+	return blue
+}
+
+func reset() string {
+	return reset
+}
 // _MakeColords
 
 func _makeansi(col string, text string) string {
