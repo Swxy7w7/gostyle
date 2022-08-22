@@ -59,11 +59,11 @@ var (
 	reset           = white
 )
 
-func blue() string {
+func Blue() string {
 	return blue
 }
 
-func reset() string {
+func Reset() string {
 	return reset
 }
 // _MakeColords
