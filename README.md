@@ -18,3 +18,6 @@
 > Inspired by **pystyle**,
 > <br>
 > Developped by [Tekky](https://github.com/xtekky)
+
+
+I am working on implementing all functions of pystyle in the file are the currently translated ones
