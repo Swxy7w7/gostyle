@@ -19,7 +19,7 @@
 > <br>
 > Developped by [Tekky](https://github.com/xtekky)
 
-
+## Example of usage
 I am working on implementing all functions of pystyle in the file are the currently translated ones
 
 ```go
