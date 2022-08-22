@@ -28,5 +28,12 @@ func main() {
 }
 ```
 
-
 ![image](https://user-images.githubusercontent.com/98614666/185834904-d015d890-3973-4ad5-987b-21aacaf0338e.png)
+
+```go
+func main() {
+	fmt.Println(Symbol("+", blue, purple, blue, "Hello World"))
+}
+```
+
+![image](https://user-images.githubusercontent.com/98614666/185837133-b932c161-0d26-40ff-b2b1-2b124bea933f.png)
