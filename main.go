@@ -1,4 +1,4 @@
-package gostyle
+package main
 
 import (
 	"bufio"
